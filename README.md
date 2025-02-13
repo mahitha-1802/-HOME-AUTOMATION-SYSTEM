@@ -22,6 +22,8 @@ Sensors: (optional) for temperature, motion, etc.
 
 IoT Platform: Blynk or MQTT broker (like Mosquitto)
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/00ce5f1d-d46e-4958-893c-1150e165f9c2)
+
 Power Supply: for the microcontroller and relays
 
 Connecting Wires: For wiring everything up
